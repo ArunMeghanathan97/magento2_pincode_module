@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+ 
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="admin-2columns-left" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="left">
+            <block class="Mbf\Pincodenurams\Block\Adminhtml\Pincodenurams\Edit\Tabs" name="mbf_pincodenurams_pincodenurams.edit.tabs"/>
+        </referenceContainer>
+        <referenceContainer name="content">
+            <block class="Mbf\Pincodenurams\Block\Adminhtml\Pincodenurams\Edit" name="mbf_pincodenurams_pincodenurams.edit"/>
+        </referenceContainer>
+    </body>
+</page>

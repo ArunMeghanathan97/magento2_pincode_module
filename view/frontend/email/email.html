@@ -1,0 +1,33 @@
+<!--@subject New featuredproduct@-->
+<!--@vars {
+"var data.contact_name":"Comment",
+"var data.email":"Sender Email",
+"var data.name":"Sender Name"
+} @-->
+
+<!--@subject New featuredproduct@-->
+<!--@vars {
+"var data.contact_name":"Comment",
+"var data.email":"Sender Email",
+"var data.name":"Sender Name"
+} @-->
+<p>Hi Admin,<br/><br/>A customer has sent an pincodenurams.</p>
+<p>The following are the details: </p>
+<table>
+<tr>
+<td>Name</td><td>: </td><td>{{trans "%contact_name" contact_name=$data.contact_name}}</td>
+</tr>
+<tr>
+<td>Email</td><td>: </td><td>{{trans "%contact_email" contact_email=$data.contact_email}}</td>
+</tr>
+<tr>
+<td>Phone</td><td>: </td><td>{{trans "%contact_phone" contact_phone=$data.contact_phone}}</td>
+</tr>
+<tr>
+<td>Subject</td><td>: </td><td>{{trans "%contact_subject" contact_subject=$data.contact_subject}}</td>
+</tr>
+<tr>
+<td>Message</td><td>: </td><td>{{trans "%contact_message" contact_message=$data.contact_message}}</td>
+</tr>
+</table>
+<p>Regards,<br /> Original vasavi jewellers</p>
