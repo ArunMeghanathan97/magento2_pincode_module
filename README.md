@@ -6,12 +6,12 @@
 <ul>
   <li>Create a folder {Magento root}/app/code/Mdf/Pincodenurams</li>
   <li>Copy the content of the repository</li>
-  <li>Run command: <b>php bin/magento setup:upgrade</b></li>
-  <li>Run Command: <b>php bin/magento setup:static-content:deploy<b></li>
-  <li>Now Flush Cache: <b>php bin/magento cache:flush<b></li>
+  <li>Run command: <b >php bin/magento setup:upgrade </b></li>
+  <li>Run Command: <b> php bin/magento setup:static-content:deploy </b></li>
+  <li>Now Flush Cache: <b> php bin/magento cache:flush </b></li>
 </ul>
 
-<h1> API URL </h1>
+<h1> Rest API </h1>
 
 <p>{{your_url}}<b>/rest/V1/Pincodenurams/custom/me?id=</b>{{your_pincode}}</p>
 <p> <b>Response </b> {"error":"","status":1,"id":"2"} </p>
