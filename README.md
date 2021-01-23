@@ -19,4 +19,4 @@
 <h1>Preview</h1>
 <img src="https://repository-images.githubusercontent.com/331880701/48437480-5d71-11eb-9ed4-10e86583ccad" />
 
-<h2> Arunkumar - <a href="https://www.mssofttech.in/">www.mssofttech.in</a> </h2>
+<h2> Arunkumar - <p>full stack software engineer</p> </h2>
