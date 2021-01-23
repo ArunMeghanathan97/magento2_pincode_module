@@ -19,4 +19,4 @@
 <h1>Preview</h1>
 <img src="https://repository-images.githubusercontent.com/331880701/48437480-5d71-11eb-9ed4-10e86583ccad" />
 
-<p> <h2>Arunkumar</h2> - full stack software engineer</p>
+<p> <b>Arunkumar</b> - full stack software engineer</p>
